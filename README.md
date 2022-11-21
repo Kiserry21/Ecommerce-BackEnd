@@ -29,7 +29,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # MY CONTACT:
 GitHub:
-kiserry21
+https://github.com/Kiserry21
 
 Video link:
 
